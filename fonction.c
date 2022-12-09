@@ -2,6 +2,6 @@
 #include <stdlib.h>
 #include "type.h"
 
-int info_client(Customer){
+Customer info_client(client){
   
 }
