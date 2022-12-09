@@ -9,7 +9,7 @@ typedef enum
 
 typedef struct
 {
-  int numero; //numéro client
+  int id; //numéro client
   Sub sub; //l'abonnement (First,etc...), elle renvoie aussi à l'énumération Sub
   int price; //Prix de l'abonnement 
   int old; //l'ancienneté 
