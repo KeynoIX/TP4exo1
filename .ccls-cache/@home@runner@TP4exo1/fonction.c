@@ -2,8 +2,13 @@
 #include <stdlib.h>
 #include "type.h"
 
-Customer displayCustomer(client){
+Customer displayCustomer(Customer c)
+{
 
+  printf("Qu'elle est votre numéro client ?");
+  scanf("%d", &(c.id)); 
+
+  printf()
 
   
 }
