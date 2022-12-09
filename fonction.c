@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "type.h"
 
-Customer info_client(client){
+Customer displayCustomer(client){
+
+
   
 }

@@ -2,6 +2,6 @@
 #define FONCTION_H_INCLUDED
 #include "type.h"
 
-Customer info_client(client);
+Customer displayCustomer(Customer client);
 
 #endif // FONCTION_H_INCLUDED
