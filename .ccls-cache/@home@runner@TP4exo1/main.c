@@ -4,7 +4,9 @@
 #include "fonction.h"
 
 int main(void) {
-
+  Customer c; 
+  
+  displayCustomer(c);
 
   return 0;
 }
