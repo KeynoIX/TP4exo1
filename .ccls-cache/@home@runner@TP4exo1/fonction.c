@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "type.h"
 
-Customer displayCustomer(Customer c)
+void displayCustomer(Customer c)
 {
 
   printf("Qu'elle est votre numéro client ?");
